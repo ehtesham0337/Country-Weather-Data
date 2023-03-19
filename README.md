@@ -5,6 +5,8 @@ Weather API from OpenWeatherMap used for all weather data.
 
 Built with React and TailwindCSS.
 
-## Live Site
+Commit history can be found at [this repo](https://github.com/ehtesham0337/Full-Stack-Open-2022/tree/main/part2/countries)
+
+## 📺 Live Site
 
 [countryweatherdata.netlify.app](https://countryweatherdata.netlify.app/)
